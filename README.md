@@ -1,3 +1,10 @@
+Final Project Kelvin Marcelo sebagai tugas akhir untuk Course-Net
+
+Aplikasi fullstack yang terdiri dari:
+1. Back End / REST API : Express, Mysql dengan XAMPP dan phpmyadmin, Sequelize, dll
+2. Front End : React, React Hooks, React Router DOM
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
